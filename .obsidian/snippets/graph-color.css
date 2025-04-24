@@ -1,0 +1,20 @@
+/* Personal - Light Red */
+.node[data-path^="Personal"] {
+    color: #d33838;
+  }
+  
+  /* Academia - Light-Medium Blue */
+  .node[data-path^="Academia"] {
+    color: #2675c4;
+  }
+  
+  /* Grind - Yellow */
+  .node[data-path^="Grind"] {
+    color: #f1c40f;
+  }
+  
+  /* Misc - Tealish Green */
+  .node[data-path^="Misc"] {
+    color: #2a8472;
+  }
+  
