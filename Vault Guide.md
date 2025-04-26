@@ -69,3 +69,13 @@ _Everything that excites me — not because I have to know it, but because I wan
 
 ---
 
+## Installed Community Plugins
+
+Here is a list of community plugins currently used in this vault:
+
+- Latex Suite - LaTeX math typesetting enhancer
+  
+
+*Note: Community plugins are stored in `.obsidian/plugins/`, but are not tracked in Git. Please reinstall manually when setting up the vault.*
+
+
