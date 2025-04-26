@@ -34,7 +34,7 @@ _Work that builds toward a career — tech jobs, startups, and big ideas._
 
 ---
 
-### 4. Misc
+### 4. Gnosis
 _Everything that excites me — not because I have to know it, but because I want to._
 
 - Religious/philosophical exploration
