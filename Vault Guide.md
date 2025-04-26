@@ -51,7 +51,7 @@ _Everything that excites me — not because I have to know it, but because I wan
 | Personal | Light Red         |
 | Academia | Light-Medium Blue |
 | Grind    | Yellow            |
-| Misc     | Tealish Green     |
+| Gnosis     | Tealish Green     |
 
 - Configured using a CSS snippet in `.obsidian/snippets/graph-color.css`
 - Enables clear visual differentiation in graph view
